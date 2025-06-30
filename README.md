@@ -1,12 +1,18 @@
 # C8EMU
-A **c Chip 8** emulator written in C.
+A **Chip 8** **emulator**, **assembler**, **disassembler** and C **compiler** written in C.
 
-# Features
+# Emulator Features
 - [x] Register Operations
 - [x] Stack, Subroutines
 - [x] Memory, Index Registers
 - [x] Jump, Conditionals
+- [ ] Cycles
 - [ ] Timer
 - [ ] Keyboard
 - [ ] Display / Sprites
 
+# Assembler
+- [ ] Not Implemented
+
+# C Compiler
+- [ ] Not Implemented
